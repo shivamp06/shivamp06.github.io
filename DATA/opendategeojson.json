@@ -1,0 +1,16 @@
+{
+    "count": 1,
+    "locations": [
+        {
+            "name": "abor hills3",
+            "latitude": 28.4594,
+            "longitude": 94.5406,
+            "heightmapImage": "uploads/1652506265779aborhills.png",
+            "_id": "627f3e9a971696dd90a30151",
+            "request": {
+                "type": "GET",
+                "url": "http://localhost:3000/location/627f3e9a971696dd90a30151"
+            }
+        }
+    ]
+}
